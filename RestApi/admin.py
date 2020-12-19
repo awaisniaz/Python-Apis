@@ -1,7 +1,7 @@
 from django.contrib import admin
-from .models import UserRegitration
+from .models import UserRegistration
 
-admin.site.register(UserRegitration)
+admin.site.register(UserRegistration)
 
 
 
